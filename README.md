@@ -5,7 +5,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukkyo" />
 </a>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yukkyo/competition)
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yukkyo/competition/light)
 
 <!--
